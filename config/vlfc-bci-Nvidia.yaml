@@ -1,0 +1,10 @@
+task: vlfc
+method: bci
+id: Nvidia
+alpha0: 0.1
+gamma: 490.0
+lambda_init: 800.0
+lambda_max: 80000.0
+lambda_min: 0.0
+T: 3
+Tp: 0

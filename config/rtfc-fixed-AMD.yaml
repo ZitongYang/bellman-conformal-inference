@@ -1,0 +1,4 @@
+task: rtfc
+method: fixed
+id: AMD
+alpha0: 0.1

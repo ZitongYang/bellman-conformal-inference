@@ -1,0 +1,8 @@
+task: vlfc
+method: aci
+id: Nvidia
+alpha0: 0.1
+gamma: 0.1
+lambda_init: 0.9
+lambda_max: 1.0
+lambda_min: 0.0

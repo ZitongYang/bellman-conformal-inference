@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+logs/
+metaexp.ipynb
+run.sbatch
+dataloader/__pycache__
+dataloader/.ipynb_checkpoints
+**/*.pyc
+**/*.pdf

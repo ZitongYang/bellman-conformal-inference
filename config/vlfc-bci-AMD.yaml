@@ -1,0 +1,10 @@
+task: vlfc
+method: bci
+id: AMD
+alpha0: 0.1
+gamma: 2100.0
+lambda_init: 3300.0
+lambda_max: 330000.0
+lambda_min: 0.0
+T: 3
+Tp: 0

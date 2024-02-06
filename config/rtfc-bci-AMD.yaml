@@ -1,0 +1,10 @@
+task: rtfc
+method: bci
+id: AMD
+alpha0: 0.1
+gamma: 0.8
+lambda_init: 5.0
+lambda_max: 500.0
+lambda_min: 0.0
+T: 3
+Tp: 0
