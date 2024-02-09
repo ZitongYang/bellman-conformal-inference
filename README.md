@@ -1,10 +1,17 @@
 # Bellman Conformal Inference
 
 This is the repository for *Bellman Conformal Inference: Calibrating Prediction Intervals For Time Series*.
-The preprint of the paper can be found at [https://arxiv.org/abs/00000.0000](https://arxiv.org/abs/00000.0000).
+The preprint of the paper can be found at [https://arxiv.org/pdf/2402.05203.pdf](https://arxiv.org/pdf/2402.05203.pdf).
 
 ```
-@article
+@article{yang2024bellman,
+      title={Bellman Conformal Inference: Calibrating Prediction Intervals For Time Series}, 
+      author={Zitong Yang and Emmanuel Candès and Lihua Lei},
+      year={2024},
+      eprint={2402.05203},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 ```
 
 
